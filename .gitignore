@@ -11,7 +11,7 @@
 # production
 /build
 
-/src/assets/video.mp4
+# /src/assets/video.mp4
 
 # misc
 .DS_Store
